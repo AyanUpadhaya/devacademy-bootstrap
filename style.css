@@ -5,10 +5,13 @@ body::before{
 
 }
 .custom-bg-color{
-    background-color: #301E67;
+    background-color: #4f3895;
+}
+.custom-dark-color{
+    background-color: #e3dff3;
 }
 @media(min-width:768px){
-    .carousel-img{
+    .carousel-img,.contact-form,.contact-content{
         width: 50%;
     }
 }
