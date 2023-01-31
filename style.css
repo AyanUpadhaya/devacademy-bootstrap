@@ -1,0 +1,14 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+
+}
+.custom-bg-color{
+    background-color: #301E67;
+}
+@media(min-width:768px){
+    .carousel-img{
+        width: 50%;
+    }
+}
