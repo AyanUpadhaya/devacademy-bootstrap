@@ -11,7 +11,7 @@ body::before{
     background-color: #e3dff3;
 }
 @media(min-width:768px){
-    .carousel-img,.contact-form,.contact-content{
+    .carousel-img,.contact-form,.contact-content,.laravel-content{
         width: 50%;
     }
 }
